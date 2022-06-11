@@ -25,7 +25,11 @@ Using cv2.equalizeHist find Equalization of Histogram.
 ### Step5:
 Run the program and execute the output.
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ```python
 # Developed By: K.Balaji
@@ -70,6 +74,12 @@ cv2.destroyAllWindows()
 
 
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Output:
 ### Input Grayscale Image and Color Image
 
@@ -77,14 +87,35 @@ cv2.destroyAllWindows()
 
 ![output](./2.png)
 
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### Histogram of Grayscale Image and any channel of Color Image
 ![output](./3.png)
 ![output](./4.png)
 
 
 
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### Histogram Equalization of Grayscale Image
 ![output](./5.png)
 ![output](./6.png)
